@@ -21,10 +21,7 @@
       "pre-commit": "pretty-quick --staged"
     }
   },
-  "author": {
-    "name": "Mohammed Ismail",
-    "email": "ikismail7@gmail.com"
-  },
+  "author": "Mohammed Ismail <ikismail7@gmail.com>",
   "contributors": [
     {
       "name": "Mohammed Ismail",
@@ -99,5 +96,17 @@
     "tslint": "^6.1.2",
     "typescript": "~3.9.6",
     "webpack-bundle-analyzer": "^3.8.0"
-  }
+  },
+  "description": "[![HitCount](http://hits.dwyl.io/ikismail/Angular-ShoppingCart.svg)](http://hits.dwyl.io/ikismail/Angular-ShoppingCart) [![GitHub forks](https://img.shields.io/github/forks/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/network) [![GitHub stars](https://img.shields.io/github/stars/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/stargazers) [![GitHub issues](https://img.shields.io/github/issues/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE) [![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://angular-shoppingcart.firebaseapp.com/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/ikismail/Angular-ShoppingCart.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fikismail%2FAngular-ShoppingCart)",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/customsneakerschool-a11y/Angular-ShoppingCart.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/customsneakerschool-a11y/Angular-ShoppingCart/issues"
+  },
+  "homepage": "https://github.com/customsneakerschool-a11y/Angular-ShoppingCart#readme"
 }
